@@ -36,10 +36,12 @@ Install python
 ### Setting up a python virtual enviroment
 Setting up a virtual enviroment for python means that if you ever change your python version, module versions or configuration, you will not run in to errors as your enviroment for this project is locked and not altered.
 Install virtualenv
-```pip install virtualenv
+```
+pip install virtualenv
 ```
 Create a virtual enviroment
-```python -m venv
+```
+python -m venv
 ```
 
 
