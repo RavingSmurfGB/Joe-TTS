@@ -9,7 +9,8 @@ A easy and intuitive way to TTS
 - Then the text will be read out
 
 # windows setup of coqui.ai
-# https://github.com/coqui-ai/TTS/discussions/1332
+# https://tts.readthedocs.io/en/latest/tutorial_for_nervous_beginners.html
+# https://github.com/coqui-ai
 
 
 ## How to confiugre
