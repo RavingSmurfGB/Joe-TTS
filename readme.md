@@ -1,6 +1,6 @@
 # Joe TTS
 
-A easy and intuitive waay 
+A easy and intuitive way to TTS
 
 
 ## How to use
@@ -8,8 +8,8 @@ A easy and intuitive waay
 - Press the configured hotkey 
 - Then the text will be read out
 
-
-
+# windows setup of coqui.ai
+# https://github.com/coqui-ai/TTS/discussions/1332
 
 
 ## How to confiugre
@@ -32,14 +32,14 @@ TTS software helps many people around the world!
 Install python
 ### git clone
 ```
-pip install pyttsx3
+
 ```
 ```
 git clone https://github.com/RavingSmurfGB/Joe-TTS.git
 ```
 ### manual download
 ```
-pip install pyttsx3
+
 ```
 
 ### Using the virtual enviroment included
@@ -80,3 +80,6 @@ This project was developed in windows
  - assistance may be provided for this project for linux but is not assured.
 Assistance may also be provided for any git issues, but is also not assured.
 Feel free to fork or recreate this project in anyway!
+
+This project uses pyttsx3, for documentation view:
+https://pypi.org/project/pyttsx3/
