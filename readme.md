@@ -8,9 +8,15 @@ A easy and intuitive way to TTS
 - Press the configured hotkey 
 - Then the text will be read out
 
-# windows setup of coqui.ai
-# https://tts.readthedocs.io/en/latest/tutorial_for_nervous_beginners.html
-# https://github.com/coqui-ai
+
+#perhaps tacotron voice
+https://github.com/keithito/tacotron
+
+
+# windows setup of coqui.ai - seemed to not work...
+https://tts.readthedocs.io/en/latest/tutorial_for_nervous_beginners.html
+https://github.com/coqui-ai
+
 
 
 ## How to confiugre
