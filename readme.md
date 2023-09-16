@@ -1,4 +1,7 @@
-# Joe TTS
+# TTS Attempts
+
+
+This repository documents my attempts to setup TTS - not working currently...
 
 A easy and intuitive way to TTS
 
